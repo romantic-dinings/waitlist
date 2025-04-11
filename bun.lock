@@ -5,7 +5,6 @@
       "name": "romantic-dinings-waitlist",
       "dependencies": {
         "@fontsource/crimson-text": "^5.1.1",
-        "@fontsource/source-serif-4": "^5.1.1",
         "@tailwindcss/vite": "^4.0.6",
         "astro": "^5.3.0",
         "tailwindcss": "^4.0.6",
@@ -84,8 +83,6 @@
     "@esbuild/win32-x64": ["@esbuild/win32-x64@0.24.2", "", { "os": "win32", "cpu": "x64" }, "sha512-7VTgWzgMGvup6aSqDPLiW5zHaxYJGTO4OokMjIlrCtf+VpEL+cXKtCvg723iguPYI5oaUNdS+/V7OU2gvXVWEg=="],
 
     "@fontsource/crimson-text": ["@fontsource/crimson-text@5.1.1", "", {}, "sha512-2SDsSJT3whYIFUTVCJAIkQHVGmMkx7ns4Pm1R5DTWIPuwdz7Yji9pNG5QEBAoA4ce/I248Dir9jmSsVAfDRCUg=="],
-
-    "@fontsource/source-serif-4": ["@fontsource/source-serif-4@5.1.1", "", {}, "sha512-ziTw0MFHaLlVMhuk8nFytaeCU2+K5UApjoaX2OZHwyz+a9Pq6bx1ZW7c2f3xIdiuvDgPBqBB+kqgjOapAG4Waw=="],
 
     "@img/sharp-darwin-arm64": ["@img/sharp-darwin-arm64@0.33.5", "", { "optionalDependencies": { "@img/sharp-libvips-darwin-arm64": "1.0.4" }, "os": "darwin", "cpu": "arm64" }, "sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ=="],
 
